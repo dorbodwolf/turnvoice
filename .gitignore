@@ -1,0 +1,9 @@
+*.wav*
+*.mp3*
+*.mp4*
+*.log
+*.mkv*
+*.m4a*
+*.webm*
+TurnVoice/core/models/
+!TurnVoice/core/silent_audio.wav
